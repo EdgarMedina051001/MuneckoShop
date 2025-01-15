@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "450527751937",
+    "project_id": "muneckoshopoficial",
+    "storage_bucket": "muneckoshopoficial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450527751937:android:8877522e27dc13ac2b3500",
+        "android_client_info": {
+          "package_name": "com.example.muneckoshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450527751937-utandmgaldo89sveat91gp7k5eegrq8i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.muneckoshop",
+            "certificate_hash": "5afaaaf0d0861ae3eae6c4155761b23d8c2d5ed8"
+          }
+        },
+        {
+          "client_id": "450527751937-qs24fv6dcpdc2dvpqi7pumhuv876hhh9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJe5XENrFyNy7BNKjiZyjAazMflCzCcj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450527751937-qs24fv6dcpdc2dvpqi7pumhuv876hhh9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">MuneckoShop</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="crear_cuenta_login">¿No Tienes Cuenta? Crea Una!</string>
+    <string name="correo_electronico">Correo Electronico.</string>
+    <string name="contrasena">Contraseña.</string>
+    <string name="olvide_contrasena">Olvide Mi Contraseña.</string>
+    <string name="google">Google</string>
+    <string name="facebook">Facebook</string>
+    <string name="reg_apellidos">Escribe tu apellido paterno.</string>
+    <string name="reg_nombres">Escribe tu nombre(s).</string>
+    <string name="reg_celular">Escribe tu celular.</string>
+    <string name="crear_cuenta">Crear Cuenta</string>
+    <string name="acceder_a_cuenta">Acceder a Cuenta</string>
+    <string name="acceder">Acceder</string>
+    <string name="ubicacion">Ubicación</string>
+    <string name="ubicacion_descripcion">Elige tu ubicación, para ofrecerte un mejor servicio.</string>
+    <string name="elige_ubicacion">Elige tu ubicación</string>
+    <string name="ubicacion_descripcion_permiso">Para brindarle la mejor experiencia gastronómica, necesitamos su permiso para acceder a la ubicación de su dispositivo. Al habilitar los servicios de ubicación, podemos ofrecer recomendaciones personalizadas de restaurantes, estimaciones de entrega precisas y garantizar una experiencia de entrega de alimentos sin problemas\".</string>
+    <string name="menu">Menú</string>
+    <string name="carrito">Carrito</string>
+    <string name="inicio">Inicio</string>
+    <string name="perfil">Perfil</string>
+    <string name="buscar">Buscar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="historial">Historial</string>
+    <string name="recomendados">Recomendados</string>
+    <string name="ver_menu">Ver Menú</string>
+    <string name="continuar">Continuar</string>
+    <string name="pedido_reciente">Pedido Reciente</string>
+    <string name="pedido_anteriormente">Pedido Anteriormente</string>
+    <string name="volver_a_pedir">Volver a Pedir</string>
+    <string name="direccion">Escribe tu dirección.</string>
+    <string name="notificaciones">Notificaciones</string>
+    <string name="texto_activitymain">Explorar Nuestra Variedad De Postres!</string>
+    <string name="realizar_pedido">Realizar Pedido</string>
+    <string name="total">Total</string>
+    <string name="content">content</string>
+    <string name="default_web_client_id">572259249154-52qhk76rn25e69pe8kgdv4pgfmjs1j1t.apps.googleusercontent.com</string>
+
+    <string name="product_price_format">MX $%.2f</string>
+</resources>
+
